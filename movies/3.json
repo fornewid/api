@@ -1,0 +1,112 @@
+{
+  "id": 3,
+  "title": "F1 더 무비",
+  "overview": "Formula 1의 짜릿한 스피드와 드라마를 그린 액션 드라마. 베테랑 드라이버와 신예가 함께 펼치는 레이싱의 세계. 실제 F1 서킷에서 촬영된 몰입감 넘치는 레이싱 액션이 펼쳐진다.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/bvVoP1t2gNvmE9ccSrqR1zcGHGM.jpg",
+  "backdrop_path": "https://image.tmdb.org/t/p/w1280/bvVoP1t2gNvmE9ccSrqR1zcGHGM.jpg",
+  "release_date": "2025-06-27",
+  "vote_average": 7.8,
+  "vote_count": 11234,
+  "runtime": 140,
+  "budget": 140000000,
+  "revenue": 520000000,
+  "tagline": "속도가 모든 것을 말한다",
+  "homepage": "https://www.f1themovie.com",
+  "original_language": "en",
+  "production_companies": [
+    {"id": 201, "name": "Apple Studios", "logo_path": "/4CZWQr9PxnQ4jzQMKLr4JsHGYeG.png"},
+    {"id": 202, "name": "Jerry Bruckheimer Films", "logo_path": "/6lhIBX4m5Qoob6KTKD27A1sOuR.png"}
+  ],
+  "genres": [
+    {"id": 28, "name": "액션"},
+    {"id": 18, "name": "드라마"},
+    {"id": 10658, "name": "스포츠"}
+  ],
+  "cast": [
+    {
+      "id": 7,
+      "name": "브래드 피트",
+      "character": "Sonny Hayes",
+      "profile_path": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
+      "order": 0
+    },
+    {
+      "id": 8,
+      "name": "다미안 루이스",
+      "character": "Jack Brabham",
+      "profile_path": "https://image.tmdb.org/t/p/w185/3rOaX8hL5G0ZnrLpQKZCOxpYh6v.jpg",
+      "order": 1
+    },
+    {
+      "id": 9,
+      "name": "케리 콘돈",
+      "character": "Kate",
+      "profile_path": "https://image.tmdb.org/t/p/w185/8T7irgCSDFNS7QOcNBQ9ZbZK6Z1.jpg",
+      "order": 2
+    },
+    {
+      "id": 40,
+      "name": "재비어 바르뎀",
+      "character": "Fernando Alonso",
+      "profile_path": "https://image.tmdb.org/t/p/w185/6ZqPZOJvRJR9v3z6s7LZoL4C5Nh.jpg",
+      "order": 3
+    },
+    {
+      "id": 41,
+      "name": "토비아스 멘지스",
+      "character": "Team Principal",
+      "profile_path": "https://image.tmdb.org/t/p/w185/c2RVoEcWZSiDPKT5yvVAm2dw1nJ.jpg",
+      "order": 4
+    },
+    {
+      "id": 42,
+      "name": "사라 나일스",
+      "character": "Sarah Mitchell",
+      "profile_path": "https://image.tmdb.org/t/p/w185/pQ2VMEr6K5g8ZXGh8ZO5mJ6X9QP.jpg",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "id": 43,
+      "name": "조지프 코신스키",
+      "job": "Director",
+      "profile_path": "https://image.tmdb.org/t/p/w185/zPsWj0YyBVLg6Q6I9K9RvCOK8pT.jpg"
+    },
+    {
+      "id": 44,
+      "name": "제리 브룩하이머",
+      "job": "Producer",
+      "profile_path": "https://image.tmdb.org/t/p/w185/3lF47Gn0Ct2qQ0pKMRGtP8x7b4q.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video5",
+      "key": "F1Movie2025",
+      "name": "Official Trailer",
+      "site": "YouTube",
+      "type": "Trailer"
+    },
+    {
+      "id": "video6",
+      "key": "SpeedTrailer",
+      "name": "Action Trailer",
+      "site": "YouTube",
+      "type": "Trailer"
+    }
+  ],
+  "similar": [
+    {"id": 1, "title": "미션 임파서블: 파이널 레코닝", "poster_path": "https://image.tmdb.org/t/p/w200/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"},
+    {"id": 4, "title": "쥬라기 월드: 새로운 시작", "poster_path": "https://image.tmdb.org/t/p/w200/sAzZZNHf7OgOZOEUDgFJ5XNvrmz.jpg"}
+  ],
+  "box_office": {
+    "opening_weekend": 65000000,
+    "domestic_total": 205000000,
+    "worldwide_total": 520000000
+  },
+  "release_info": [
+    {"country": "KR", "release_date": "2025-06-25", "certification": "12세관람가"},
+    {"country": "US", "release_date": "2025-06-27", "certification": "PG-13"}
+  ]
+}

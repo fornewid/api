@@ -1,0 +1,44 @@
+{
+  "id": 5,
+  "title": "마인크래프트 무비",
+  "overview": "전 세계적으로 사랑받는 게임 마인크래프트가 영화로! 블록으로 이루어진 세상에서 펼쳐지는 모험 이야기. 현실 세계에서 마인크래프트 세계로 떨어진 사람들이 겪는 환상적인 모험과 우정의 이야기.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/k5aQ2TqKcQFwPoXHkpAGoKNVDLZ.jpg",
+  "backdrop_path": "https://image.tmdb.org/t/p/w1280/5hN4Waw8YQfHXd5x6qGF1PiG0LF.jpg",
+  "release_date": "2025-04-04",
+  "vote_average": 6.9,
+  "vote_count": 7654,
+  "runtime": 110,
+  "budget": 150000000,
+  "revenue": 750000000,
+  "tagline": "블록으로 만든 세상, 무한한 가능성",
+  "homepage": "https://www.minecraft-movie.com",
+  "original_language": "en",
+  "production_companies": [
+    {"id": 401, "name": "Warner Bros. Pictures", "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png"},
+    {"id": 402, "name": "Mojang Studios", "logo_path": "/8qBylBsQf4llkGrWR3qAsOtOU8O.png"}
+  ],
+  "genres": [
+    {"id": 16, "name": "애니메이션"},
+    {"id": 12, "name": "모험"},
+    {"id": 35, "name": "코미디"}
+  ],
+  "cast": [
+    {
+      "id": 13,
+      "name": "잭 블랙",
+      "character": "Steve",
+      "profile_path": "https://image.tmdb.org/t/p/w185/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg",
+      "order": 0
+    },
+    {
+      "id": 14,
+      "name": "제이슨 모모아",
+      "character": "Garrett 'The Garbage Man' Garrison",
+      "profile_path": "https://image.tmdb.org/t/p/w185/6dYAbg4wKYXcI9QfLy0qoQjNy3q.jpg",
+      "order": 1
+    },
+    {
+      "id": 15,
+      "name": "엠마 마이어스",
+      "character": "Natalie",
+      "profile_path": "https://image.tmdb.org/t/p/w185/2QGJnCqHAml

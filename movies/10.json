@@ -1,0 +1,112 @@
+{
+  "id": 10,
+  "title": "드래곤 길들이기",
+  "overview": "인기 애니메이션 시리즈의 실사 영화화. 히컵과 투슬리스의 우정을 실사로 만나볼 수 있는 판타지 모험 영화. 버크 섬의 바이킹 소년 히컵이 드래곤 투슬리스와 함께 새로운 세상을 발견하는 감동적인 이야기.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/8vywrRg1wrY4fo7EqgrFmUJgchG.jpg",
+  "backdrop_path": "https://image.tmdb.org/t/p/w1280/cKz7rp9GFf6kJtVqOWqYlz4j8zH.jpg",
+  "release_date": "2025-06-13",
+  "vote_average": 7.6,
+  "vote_count": 8932,
+  "runtime": 104,
+  "budget": 135000000,
+  "revenue": 680000000,
+  "tagline": "우정은 모든 경계를 뛰어넘는다",
+  "homepage": "https://www.howtotrainyourdragon.com",
+  "original_language": "en",
+  "production_companies": [
+    {"id": 801, "name": "Universal Pictures", "logo_path": "/q54qEwbmPXeqE9JhG4Z6C4xSd4E.png"},
+    {"id": 802, "name": "DreamWorks Animation", "logo_path": "/dreamworks_logo.png"}
+  ],
+  "genres": [
+    {"id": 14, "name": "판타지"},
+    {"id": 12, "name": "모험"},
+    {"id": 10751, "name": "가족"}
+  ],
+  "cast": [
+    {
+      "id": 28,
+      "name": "메이슨 템즈",
+      "character": "Hiccup",
+      "profile_path": "https://image.tmdb.org/t/p/w185/vN7vYsQsGpbOF0Q0uYqvHhZ3WAs.jpg",
+      "order": 0
+    },
+    {
+      "id": 29,
+      "name": "니코 파커",
+      "character": "Astrid",
+      "profile_path": "https://image.tmdb.org/t/p/w185/fBPGu4RVUmzXRoE7wCUMC9u7yPl.jpg",
+      "order": 1
+    },
+    {
+      "id": 30,
+      "name": "제라드 버틀러",
+      "character": "Stoick",
+      "profile_path": "https://image.tmdb.org/t/p/w185/1nL3hKTp5GHnAQK5UUpwkfmQKod.jpg",
+      "order": 2
+    },
+    {
+      "id": 74,
+      "name": "닉 프로스트",
+      "character": "Gobber",
+      "profile_path": "https://image.tmdb.org/t/p/w185/aNF32E4QLhEhpUQ1MrZu8fQDVWX.jpg",
+      "order": 3
+    },
+    {
+      "id": 75,
+      "name": "줄리안 데니슨",
+      "character": "Fishlegs",
+      "profile_path": "https://image.tmdb.org/t/p/w185/6Tphe7y6TZUIq4Y9eUfn1E8K5S4.jpg",
+      "order": 4
+    },
+    {
+      "id": 76,
+      "name": "가브리엘 호워드",
+      "character": "Snotlout",
+      "profile_path": "https://image.tmdb.org/t/p/w185/5mVT3v8Uq7g8Qg5Z6JO7h8R3qL9.jpg",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "id": 77,
+      "name": "딘 드블루아",
+      "job": "Director",
+      "profile_path": "https://image.tmdb.org/t/p/w185/4gHKrm1QQ3z5HZB6qZE6HTsJ3q9.jpg"
+    },
+    {
+      "id": 78,
+      "name": "브래드 루이스",
+      "job": "Producer",
+      "profile_path": "https://image.tmdb.org/t/p/w185/2Qkz3QJ5Q3t3p5Q5g2Z5Q5W8w9t.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video19",
+      "key": "HowToTrainDragon",
+      "name": "Official Trailer",
+      "site": "YouTube",
+      "type": "Trailer"
+    },
+    {
+      "id": "video20",
+      "key": "ToothlessLiveAction",
+      "name": "Making of Toothless",
+      "site": "YouTube",
+      "type": "Featurette"
+    }
+  ],
+  "similar": [
+    {"id": 9, "title": "패딩턴 인 페루", "poster_path": "https://image.tmdb.org/t/p/w200/xrjBB2M9xmTJKI2vFR0Ob1d6GYD.jpg"},
+    {"id": 5, "title": "마인크래프트 무비", "poster_path": "https://image.tmdb.org/t/p/w200/9QxhQPXAjXi7Mb2Z8eXgGzV0fLL.jpg"}
+  ],
+  "box_office": {
+    "opening_weekend": 85000000,
+    "domestic_total": 260000000,
+    "worldwide_total": 680000000
+  },
+  "release_info": [
+    {"country": "KR", "release_date": "2025-06-11", "certification": "전체관람가"},
+    {"country": "US", "release_date": "2025-06-13", "certification": "PG"}
+  ]
+}

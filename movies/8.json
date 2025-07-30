@@ -1,0 +1,112 @@
+{
+  "id": 8,
+  "title": "썬더볼츠",
+  "overview": "마블의 안티히어로들이 모인 팀 썬더볼츠의 첫 번째 영화. 악역들이 주인공이 되어 세상을 구한다. 과거의 실수를 만회하려는 안티히어로들이 모여 예상치 못한 위협에 맞서는 액션 어드벤처.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/1lI4iDsaVnOnnZPI9igWkL8jHPL.jpg",
+  "backdrop_path": "https://image.tmdb.org/t/p/w1280/7aPrv2HFssWcOtpig5G3HEVk3uS.jpg",
+  "release_date": "2025-05-02",
+  "vote_average": 7.5,
+  "vote_count": 10987,
+  "runtime": 134,
+  "budget": 180000000,
+  "revenue": 780000000,
+  "tagline": "악역들의 구원",
+  "homepage": "https://www.marvel.com/thunderbolts",
+  "original_language": "en",
+  "production_companies": [
+    {"id": 601, "name": "Marvel Studios", "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png"},
+    {"id": 602, "name": "Walt Disney Pictures", "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png"}
+  ],
+  "genres": [
+    {"id": 28, "name": "액션"},
+    {"id": 12, "name": "모험"},
+    {"id": 35, "name": "코미디"}
+  ],
+  "cast": [
+    {
+      "id": 22,
+      "name": "플로렌스 퓨",
+      "character": "Yelena Belova",
+      "profile_path": "https://image.tmdb.org/t/p/w185/8gEJ0a8LZkqfRoO1dX0rHXzjzS0.jpg",
+      "order": 0
+    },
+    {
+      "id": 23,
+      "name": "세바스찬 스탠",
+      "character": "Bucky Barnes",
+      "profile_path": "https://image.tmdb.org/t/p/w185/vUJPr9T5YQv8rBuO0cqhSNEVvF1.jpg",
+      "order": 1
+    },
+    {
+      "id": 24,
+      "name": "데이비드 하버",
+      "character": "Alexei Shostakov / Red Guardian",
+      "profile_path": "https://image.tmdb.org/t/p/w185/t8liE7wYIgdJPnJ4ufPsG2PVeqe.jpg",
+      "order": 2
+    },
+    {
+      "id": 65,
+      "name": "올가 쿠릴렌코",
+      "character": "Taskmaster",
+      "profile_path": "https://image.tmdb.org/t/p/w185/LJORBD8EsJ1J7z8hFKYT6zv8fBZ.jpg",
+      "order": 3
+    },
+    {
+      "id": 66,
+      "name": "위드 고일",
+      "character": "John Walker / U.S. Agent",
+      "profile_path": "https://image.tmdb.org/t/p/w185/h0w0jH8dZh2lRQ8qdLvg9TmOZOb.jpg",
+      "order": 4
+    },
+    {
+      "id": 67,
+      "name": "한나 존 케이먼",
+      "character": "Ghost",
+      "profile_path": "https://image.tmdb.org/t/p/w185/jWQ5mLGPfXI8qJrX5jFOoFMYnJ9.jpg",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "id": 68,
+      "name": "제이크 슈라이어",
+      "job": "Director",
+      "profile_path": "https://image.tmdb.org/t/p/w185/3p5LJpSp8e3m5vZf7J7Rz5c7O6d.jpg"
+    },
+    {
+      "id": 64,
+      "name": "케빈 파이기",
+      "job": "Producer",
+      "profile_path": "https://image.tmdb.org/t/p/w185/cLBcXHQ0C3L8UWPJIWqILXB8TiM.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video15",
+      "key": "ThunderboltsMovie",
+      "name": "Official Trailer",
+      "site": "YouTube",
+      "type": "Trailer"
+    },
+    {
+      "id": "video16",
+      "key": "AntiHeroesUnite",
+      "name": "Character Spotlight",
+      "site": "YouTube",
+      "type": "Featurette"
+    }
+  ],
+  "similar": [
+    {"id": 7, "title": "캡틴 아메리카: 브레이브 뉴 월드", "poster_path": "https://image.tmdb.org/t/p/w200/qpLV3vOWLhHPW6vTXnYL7uP8B3o.jpg"},
+    {"id": 4, "title": "쥬라기 월드: 새로운 시작", "poster_path": "https://image.tmdb.org/t/p/w200/sAzZZNHf7OgOZOEUDgFJ5XNvrmz.jpg"}
+  ],
+  "box_office": {
+    "opening_weekend": 115000000,
+    "domestic_total": 285000000,
+    "worldwide_total": 780000000
+  },
+  "release_info": [
+    {"country": "KR", "release_date": "2025-04-30", "certification": "12세관람가"},
+    {"country": "US", "release_date": "2025-05-02", "certification": "PG-13"}
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 9,
+  "title": "패딩턴 인 페루",
+  "overview": "사랑스러운 곰 패딩턴이 페루로 떠나는 새로운 모험. 가족 영화의 완벽한 예시를 보여주는 따뜻한 이야기. 루시 이모를 찾아 페루로 떠난 패딩턴과 브라운 가족의 환상적인 남미 대모험이 펼쳐진다.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/1rfxGlRaFe8bqKOtebXl2CFel8F.jpg",
+  "backdrop_path": "https://image.tmdb.org/t/p/w1280/wv4KmPpKR7Y6Cjg7V4qZ9k6p8fV.jpg",
+  "release_date": "2025-01-17",
+  "vote_average": 8.0,
+  "vote_count": 6789,
+  "runtime": 106,
+  "budget": 40000000,
+  "revenue": 320000000,
+  "tagline": "집은 마음이 있는 곳",
+  "homepage": "https://www.paddingtonbear.com",
+  "original_language": "en",
+  "production_companies": [
+    {"id": 701, "name": "StudioCanal", "logo_path": "/studiocanal_logo.png"},
+    {"id": 702, "name": "Heyday Films", "logo_path": "/heyday_logo.png"}
+  ],
+  "genres": [
+    {"id": 16, "name": "애니메이션"},
+    {"id": 35, "name": "코미디"},
+    {"id": 10751, "name": "가족"}
+  ],
+  "cast": [
+    {
+      "id": 25,
+      "name": "벤 위쇼",
+      "character": "Paddington (voice)",
+      "profile_path": "https://image.tmdb.org/t/p/w185/3wf6q0n6vOGHq3HyWaYt5nGLwNn.jpg",
+      "order": 0
+    },
+    {
+      "id": 26,
+      "name": "휴 보네빌",
+      "character": "Henry Brown",
+      "profile_path": "https://image.tmdb.org/t/p/w185/dCe7nglNSn9YHXiQhWOqcQPGfpf.jpg",
+      "order": 1
+    },
+    {
+      "id": 27,
+      "name": "샐리 호킨스",
+      "character": "Mary Brown",
+      "profile_path": "https://image.tmdb.org/t/p/w185/4CKjV1I9E3rXIYXf2GhMxRBCnNf.jpg",
+      "order": 2
+    },
+    {
+      "id": 69,
+      "name": "에밀리 모티머",
+      "character": "Mrs. Brown",
+      "profile_path": "https://image.tmdb.org/t/p/w185/o5onNBTwGePOJ7Aj8q6eOEGHK6U.jpg",
+      "order": 3
+    },
+    {
+      "id": 70,
+      "name": "안토니오 반데라스",
+      "character": "Hunter Cabot",
+      "profile_path": "https://image.tmdb.org/t/p/w185/zDwUWKF4KOijuBgJyKHh0Jqs4Ol.jpg",
+      "order": 4
+    },
+    {
+      "id": 71,
+      "name": "올리비아 콜먼",
+      "character": "The Reverend Mother",
+      "profile_path": "https://image.tmdb.org/t/p/w185/4ZwZ05WS8t5Z5dRIBYUAhmZrOQ7.jpg",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "id": 72,
+      "name": "도갈 윌슨",
+      "job": "Director",
+      "profile_path": "https://image.tmdb.org/t/p/w185/qY7gGg7GNP9i4hhfGN2LJ8VV4Kq.jpg"
+    },
+    {
+      "id": 73,
+      "name": "로지 알리슨",
+      "job": "Producer",
+      "profile_path": "https://image.tmdb.org/t/p/w185/gQ7mT2pVqXEUo7z2QO5Zd5X2Qld.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video17",
+      "key": "PaddingtonPeru",
+      "name": "Official Trailer",
+      "site": "YouTube",
+      "type": "Trailer"
+    },
+    {
+      "id": "video18",
+      "key": "PeruAdventure",
+      "name": "Behind the Scenes",
+      "site": "YouTube",
+      "type": "Featurette"
+    }
+  ],
+  "similar": [
+    {"id": 5, "title": "마인크래프트 무비", "poster_path": "https://image.tmdb.org/t/p/w200/9QxhQPXAjXi7Mb2Z8eXgGzV0fLL.jpg"},
+    {"id": 10, "title": "드래곤 길들이기", "poster_path": "https://image.tmdb.org/t/p/w200/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg"}
+  ],
+  "box_office": {
+    "opening_weekend": 28000000,
+    "domestic_total": 95000000,
+    "worldwide_total": 320000000
+  },
+  "release_info": [
+    {"country": "KR", "release_date": "2025-01-15", "certification": "전체관람가"},
+    {"country": "US", "release_date": "2025-01-17", "certification": "PG"}
+  ]
+}

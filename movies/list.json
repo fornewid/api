@@ -1,0 +1,214 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "미션 임파서블: 파이널 레코닝",
+      "overview": "이단 헌트와 IMF 팀이 마지막 미션에 나선다. 전 세계의 운명이 걸린 최후의 작전에서 과연 그들은 성공할 수 있을까?",
+      "poster_path": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w1280/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+      "release_date": "2025-05-23",
+      "vote_average": 8.1,
+      "vote_count": 15423,
+      "runtime": 163,
+      "genres": [
+        {"id": 28, "name": "액션"},
+        {"id": 12, "name": "모험"},
+        {"id": 53, "name": "스릴러"}
+      ],
+      "cast": [
+        {"id": 1, "name": "톰 크루즈", "character": "Ethan Hunt", "profile_path": "https://image.tmdb.org/t/p/w185/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg"},
+        {"id": 2, "name": "헤일리 앳웰", "character": "Grace", "profile_path": "https://image.tmdb.org/t/p/w185/84oKyPLhng5haEpRbr2WHROPbXQ.jpg"},
+        {"id": 3, "name": "빙 레임스", "character": "Luther Stickell", "profile_path": "https://image.tmdb.org/t/p/w185/vZF4d6bXJKrVhKJgCShiHOBJiI4.jpg"}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "검은 수녀들",
+      "overview": "악귀를 쫓는 수녀들의 치열한 사투를 그린 오컬트 호러. 전작 '검은 사제들'의 세계관을 이어받은 속편.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/n7T8RbMRDfhtKJ8T1KTpNZW2eQa.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w1280/cUTQqnpWH51Hk5Eoqu3bWEMGWsv.jpg",
+      "release_date": "2025-01-24",
+      "vote_average": 7.4,
+      "vote_count": 8765,
+      "runtime": 123,
+      "genres": [
+        {"id": 27, "name": "공포"},
+        {"id": 53, "name": "스릴러"},
+        {"id": 9648, "name": "미스터리"}
+      ],
+      "cast": [
+        {"id": 4, "name": "송혜교", "character": "윤수신 수녀", "profile_path": "https://image.tmdb.org/t/p/w185/eFz2W9j9HXz6CmDFW8w7JFnyqqW.jpg"},
+        {"id": 5, "name": "전여빈", "character": "미카엘라 수녀", "profile_path": "https://image.tmdb.org/t/p/w185/92MZkCuYpjcZMCeKtD7o0xNEWdx.jpg"},
+        {"id": 6, "name": "이진욱", "character": "박신부", "profile_path": "https://image.tmdb.org/t/p/w185/nHvOl6WjOEtG12xhVhczkkJ7qZx.jpg"}
+      ]
+    },
+    {
+      "id": 3,
+      "title": "F1 더 무비",
+      "overview": "Formula 1의 짜릿한 스피드와 드라마를 그린 액션 드라마. 베테랑 드라이버와 신예가 함께 펼치는 레이싱의 세계.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/s1zW3M8VXDhATyL5qDOdWg4Pm9M.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w1280/l7bFJ9pchpfZVr8PvGjE5tEd8E2.jpg",
+      "release_date": "2025-06-27",
+      "vote_average": 7.8,
+      "vote_count": 11234,
+      "runtime": 140,
+      "genres": [
+        {"id": 28, "name": "액션"},
+        {"id": 18, "name": "드라마"},
+        {"id": 10658, "name": "스포츠"}
+      ],
+      "cast": [
+        {"id": 7, "name": "브래드 피트", "character": "Sonny Hayes", "profile_path": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"},
+        {"id": 8, "name": "다미안 루이스", "character": "Jack Brabham", "profile_path": "https://image.tmdb.org/t/p/w185/3rOaX8hL5G0ZnrLpQKZCOxpYh6v.jpg"},
+        {"id": 9, "name": "케리 콘돈", "character": "Kate", "profile_path": "https://image.tmdb.org/t/p/w185/8T7irgCSDFNS7QOcNBQ9ZbZK6Z1.jpg"}
+      ]
+    },
+    {
+      "id": 4,
+      "title": "쥬라기 월드: 새로운 시작",
+      "overview": "공룡들과 인간이 공존하는 새로운 세계에서 펼쳐지는 모험. 쥬라기 월드 시리즈의 새로운 장이 열린다.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/sAzZZNHf7OgOZOEUDgFJ5XNvrmz.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w1280/qpYxGgMgRsG4DAjjZD21sI2S4MH.jpg",
+      "release_date": "2025-07-02",
+      "vote_average": 7.2,
+      "vote_count": 9876,
+      "runtime": 125,
+      "genres": [
+        {"id": 28, "name": "액션"},
+        {"id": 12, "name": "모험"},
+        {"id": 878, "name": "SF"}
+      ],
+      "cast": [
+        {"id": 10, "name": "스칼렛 요한슨", "character": "Zora Bennett", "profile_path": "https://image.tmdb.org/t/p/w185/3JTEc2tGUact9c0WktvpeJ9pajn.jpg"},
+        {"id": 11, "name": "조나단 베일리", "character": "Dr. Henry Loomis", "profile_path": "https://image.tmdb.org/t/p/w185/2wXMD6LDp2fDBfNNqE6FiGa4dNZ.jpg"},
+        {"id": 12, "name": "마흘러샬라 알리", "character": "Duncan Kincaid", "profile_path": "https://image.tmdb.org/t/p/w185/kFTHMXTn12LPE8L7ZWoYnXYdWOl.jpg"}
+      ]
+    },
+    {
+      "id": 5,
+      "title": "마인크래프트 무비",
+      "overview": "전 세계적으로 사랑받는 게임 마인크래프트가 영화로! 블록으로 이루어진 세상에서 펼쳐지는 모험 이야기.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/9QxhQPXAjXi7Mb2Z8eXgGzV0fLL.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w1280/5hN4Waw8YQfHXd5x6qGF1PiG0LF.jpg",
+      "release_date": "2025-04-04",
+      "vote_average": 6.9,
+      "vote_count": 7654,
+      "runtime": 110,
+      "genres": [
+        {"id": 16, "name": "애니메이션"},
+        {"id": 12, "name": "모험"},
+        {"id": 35, "name": "코미디"}
+      ],
+      "cast": [
+        {"id": 13, "name": "잭 블랙", "character": "Steve", "profile_path": "https://image.tmdb.org/t/p/w185/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"},
+        {"id": 14, "name": "제이슨 모모아", "character": "Garrett 'The Garbage Man' Garrison", "profile_path": "https://image.tmdb.org/t/p/w185/6dYAbg4wKYXcI9QfLy0qoQjNy3q.jpg"},
+        {"id": 15, "name": "엠마 마이어스", "character": "Natalie", "profile_path": "https://image.tmdb.org/t/p/w185/2QGJnCqHAmlOlJ7tIE1oSwqbzJw.jpg"}
+      ]
+    },
+    {
+      "id": 6,
+      "title": "미키 17",
+      "overview": "봉준호 감독의 새로운 SF 스릴러. 죽어도 다시 살아나는 남자 미키의 17번째 생에서 벌어지는 이야기.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/qzT1lWYUEFxaHVTy2EdYxfUf5Ch.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w1280/fz8zlb3mRj0qgJW7FtIxP9K6GYG.jpg",
+      "release_date": "2025-01-31",
+      "vote_average": 8.3,
+      "vote_count": 12456,
+      "runtime": 112,
+      "genres": [
+        {"id": 878, "name": "SF"},
+        {"id": 53, "name": "스릴러"},
+        {"id": 35, "name": "코미디"}
+      ],
+      "cast": [
+        {"id": 16, "name": "로버트 패틴슨", "character": "Mickey Barnes", "profile_path": "https://image.tmdb.org/t/p/w185/2hVNIaLvYNKsF2bCHhZ9ZUL5Gtj.jpg"},
+        {"id": 17, "name": "나오미 왓츠", "character": "Hieronymous Marshall", "profile_path": "https://image.tmdb.org/t/p/w185/3pvkfSaFGAO3yUX7Qp3hYMM2KJ1.jpg"},
+        {"id": 18, "name": "스티븐 연", "character": "Jimmi Hong", "profile_path": "https://image.tmdb.org/t/p/w185/uRoXPbfPUrYTtJSqpqpgCdSKfOb.jpg"}
+      ]
+    },
+    {
+      "id": 7,
+      "title": "캡틴 아메리카: 브레이브 뉴 월드",
+      "overview": "새로운 캡틴 아메리카 샘 윌슨이 방패를 들고 등장한다. 새로운 위협에 맞서는 윌슨의 첫 번째 단독 영화.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/qpLV3vOWLhHPW6vTXnYL7uP8B3o.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w1280/1FUpWXHYQczFiSqACp3fFVB3i5n.jpg",
+      "release_date": "2025-02-14",
+      "vote_average": 7.7,
+      "vote_count": 14325,
+      "runtime": 118,
+      "genres": [
+        {"id": 28, "name": "액션"},
+        {"id": 12, "name": "모험"},
+        {"id": 878, "name": "SF"}
+      ],
+      "cast": [
+        {"id": 19, "name": "안소니 맥키", "character": "Sam Wilson / Captain America", "profile_path": "https://image.tmdb.org/t/p/w185/eVCkx6ueHpudI2ZZjL5m9rR4iqQ.jpg"},
+        {"id": 20, "name": "대니 라미레즈", "character": "Joaquin Torres", "profile_path": "https://image.tmdb.org/t/p/w185/rFhSEkWn6iKvQ1DjLfOkdMzYl4a.jpg"},
+        {"id": 21, "name": "칼 랸버리", "character": "Isaiah Bradley", "profile_path": "https://image.tmdb.org/t/p/w185/3NHDB9O7pUpbHwJMCSTCBgjEEF6.jpg"}
+      ]
+    },
+    {
+      "id": 8,
+      "title": "썬더볼츠",
+      "overview": "마블의 안티히어로들이 모인 팀 썬더볼츠의 첫 번째 영화. 악역들이 주인공이 되어 세상을 구한다.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/dV22UZGSw6JZxG1u3RJU7K2PzEe.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w1280/7aPrv2HFssWcOtpig5G3HEVk3uS.jpg",
+      "release_date": "2025-05-02",
+      "vote_average": 7.5,
+      "vote_count": 10987,
+      "runtime": 134,
+      "genres": [
+        {"id": 28, "name": "액션"},
+        {"id": 12, "name": "모험"},
+        {"id": 35, "name": "코미디"}
+      ],
+      "cast": [
+        {"id": 22, "name": "플로렌스 퓨", "character": "Yelena Belova", "profile_path": "https://image.tmdb.org/t/p/w185/8gEJ0a8LZkqfRoO1dX0rHXzjzS0.jpg"},
+        {"id": 23, "name": "세바스찬 스탠", "character": "Bucky Barnes", "profile_path": "https://image.tmdb.org/t/p/w185/vUJPr9T5YQv8rBuO0cqhSNEVvF1.jpg"},
+        {"id": 24, "name": "데이비드 하버", "character": "Alexei Shostakov / Red Guardian", "profile_path": "https://image.tmdb.org/t/p/w185/t8liE7wYIgdJPnJ4ufPsG2PVeqe.jpg"}
+      ]
+    },
+    {
+      "id": 9,
+      "title": "패딩턴 인 페루",
+      "overview": "사랑스러운 곰 패딩턴이 페루로 떠나는 새로운 모험. 가족 영화의 완벽한 예시를 보여주는 따뜻한 이야기.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/xrjBB2M9xmTJKI2vFR0Ob1d6GYD.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w1280/wv4KmPpKR7Y6Cjg7V4qZ9k6p8fV.jpg",
+      "release_date": "2025-01-17",
+      "vote_average": 8.0,
+      "vote_count": 6789,
+      "runtime": 106,
+      "genres": [
+        {"id": 16, "name": "애니메이션"},
+        {"id": 35, "name": "코미디"},
+        {"id": 10751, "name": "가족"}
+      ],
+      "cast": [
+        {"id": 25, "name": "벤 위쇼", "character": "Paddington (voice)", "profile_path": "https://image.tmdb.org/t/p/w185/3wf6q0n6vOGHq3HyWaYt5nGLwNn.jpg"},
+        {"id": 26, "name": "휴 보네빌", "character": "Henry Brown", "profile_path": "https://image.tmdb.org/t/p/w185/dCe7nglNSn9YHXiQhWOqcQPGfpf.jpg"},
+        {"id": 27, "name": "샐리 호킨스", "character": "Mary Brown", "profile_path": "https://image.tmdb.org/t/p/w185/4CKjV1I9E3rXIYXf2GhMxRBCnNf.jpg"}
+      ]
+    },
+    {
+      "id": 10,
+      "title": "드래곤 길들이기",
+      "overview": "인기 애니메이션 시리즈의 실사 영화화. 히컵과 투슬리스의 우정을 실사로 만나볼 수 있는 판타지 모험 영화.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w1280/cKz7rp9GFf6kJtVqOWqYlz4j8zH.jpg",
+      "release_date": "2025-06-13",
+      "vote_average": 7.6,
+      "vote_count": 8932,
+      "runtime": 104,
+      "genres": [
+        {"id": 14, "name": "판타지"},
+        {"id": 12, "name": "모험"},
+        {"id": 10751, "name": "가족"}
+      ],
+      "cast": [
+        {"id": 28, "name": "메이슨 템즈", "character": "Hiccup", "profile_path": "https://image.tmdb.org/t/p/w185/vN7vYsQsGpbOF0Q0uYqvHhZ3WAs.jpg"},
+        {"id": 29, "name": "니코 파커", "character": "Astrid", "profile_path": "https://image.tmdb.org/t/p/w185/fBPGu4RVUmzXRoE7wCUMC9u7yPl.jpg"},
+        {"id": 30, "name": "제라드 버틀러", "character": "Stoick", "profile_path": "https://image.tmdb.org/t/p/w185/1nL3hKTp5GHnAQK5UUpwkfmQKod.jpg"}
+      ]
+    }
+  ]
+}

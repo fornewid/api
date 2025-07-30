@@ -1,0 +1,112 @@
+{
+  "id": 7,
+  "title": "캡틴 아메리카: 브레이브 뉴 월드",
+  "overview": "새로운 캡틴 아메리카 샘 윌슨이 방패를 들고 등장한다. 새로운 위협에 맞서는 윌슨의 첫 번째 단독 영화. 스티브 로저스의 뒤를 이어 캡틴 아메리카의 방패를 물려받은 샘 윌슨의 영웅적 여정이 시작된다.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/qj1uEI7zrCWbMppjFZmCXVlWlb1.jpg",
+  "backdrop_path": "https://image.tmdb.org/t/p/w1280/1FUpWXHYQczFiSqACp3fFVB3i5n.jpg",
+  "release_date": "2025-02-14",
+  "vote_average": 7.7,
+  "vote_count": 14325,
+  "runtime": 118,
+  "budget": 200000000,
+  "revenue": 850000000,
+  "tagline": "새로운 방패, 새로운 희망",
+  "homepage": "https://www.marvel.com/captainamerica",
+  "original_language": "en",
+  "production_companies": [
+    {"id": 601, "name": "Marvel Studios", "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png"},
+    {"id": 602, "name": "Walt Disney Pictures", "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png"}
+  ],
+  "genres": [
+    {"id": 28, "name": "액션"},
+    {"id": 12, "name": "모험"},
+    {"id": 878, "name": "SF"}
+  ],
+  "cast": [
+    {
+      "id": 19,
+      "name": "안소니 맥키",
+      "character": "Sam Wilson / Captain America",
+      "profile_path": "https://image.tmdb.org/t/p/w185/eVCkx6ueHpudI2ZZjL5m9rR4iqQ.jpg",
+      "order": 0
+    },
+    {
+      "id": 20,
+      "name": "대니 라미레즈",
+      "character": "Joaquin Torres",
+      "profile_path": "https://image.tmdb.org/t/p/w185/rFhSEkWn6iKvQ1DjLfOkdMzYl4a.jpg",
+      "order": 1
+    },
+    {
+      "id": 21,
+      "name": "칼 랸버리",
+      "character": "Isaiah Bradley",
+      "profile_path": "https://image.tmdb.org/t/p/w185/3NHDB9O7pUpbHwJMCSTCBgjEEF6.jpg",
+      "order": 2
+    },
+    {
+      "id": 60,
+      "name": "해리슨 포드",
+      "character": "General Thaddeus 'Thunderbolt' Ross",
+      "profile_path": "https://image.tmdb.org/t/p/w185/1YpIaZAjqPeHqz9z3NKAmTTJo9a.jpg",
+      "order": 3
+    },
+    {
+      "id": 61,
+      "name": "리브 타일러",
+      "character": "Betty Ross",
+      "profile_path": "https://image.tmdb.org/t/p/w185/oHGPKsNYyuM7XJhf8MrE5rqjLZn.jpg",
+      "order": 4
+    },
+    {
+      "id": 62,
+      "name": "로사 살라자르",
+      "character": "Sabra",
+      "profile_path": "https://image.tmdb.org/t/p/w185/3JBM2R3Q3J2q8Q7mH6QmhXM5L5h.jpg",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "id": 63,
+      "name": "줄리어스 오나",
+      "job": "Director",
+      "profile_path": "https://image.tmdb.org/t/p/w185/tXlHKJo7l9m7KjuTgDBs9rMBc5m.jpg"
+    },
+    {
+      "id": 64,
+      "name": "케빈 파이기",
+      "job": "Producer",
+      "profile_path": "https://image.tmdb.org/t/p/w185/cLBcXHQ0C3L8UWPJIWqILXB8TiM.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video13",
+      "key": "CaptainAmericaBNW",
+      "name": "Official Trailer",
+      "site": "YouTube",
+      "type": "Trailer"
+    },
+    {
+      "id": "video14",
+      "key": "NewShieldTrailer",
+      "name": "Super Bowl Spot",
+      "site": "YouTube",
+      "type": "Trailer"
+    }
+  ],
+  "similar": [
+    {"id": 8, "title": "썬더볼츠", "poster_path": "https://image.tmdb.org/t/p/w200/dV22UZGSw6JZxG1u3RJU7K2PzEe.jpg"},
+    {"id": 1, "title": "미션 임파서블: 파이널 레코닝", "poster_path": "https://image.tmdb.org/t/p/w200/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"}
+  ],
+  "box_office": {
+    "opening_weekend": 125000000,
+    "domestic_total": 320000000,
+    "worldwide_total": 850000000
+  },
+  "release_info": [
+    {"country": "KR", "release_date": "2025-02-12", "certification": "12세관람가"},
+    {"country": "US", "release_date": "2025-02-14", "certification": "PG-13"}
+  ]
+}

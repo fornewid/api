@@ -1,0 +1,112 @@
+{
+  "id": 4,
+  "title": "쥬라기 월드: 새로운 시작",
+  "overview": "공룡들과 인간이 공존하는 새로운 세계에서 펼쳐지는 모험. 쥬라기 월드 시리즈의 새로운 장이 열린다. 첨단 기술과 자연의 힘이 충돌하는 스펙터클한 액션 어드벤처가 펼쳐진다.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/ygr4hE8Qpagv8sxZbMw1mtYkcQE.jpg",
+  "backdrop_path": "https://image.tmdb.org/t/p/w1280/qpYxGgMgRsG4DAjjZD21sI2S4MH.jpg",
+  "release_date": "2025-07-02",
+  "vote_average": 7.2,
+  "vote_count": 9876,
+  "runtime": 125,
+  "budget": 200000000,
+  "revenue": 1100000000,
+  "tagline": "진화는 계속된다",
+  "homepage": "https://www.jurassicworld.com",
+  "original_language": "en",
+  "production_companies": [
+    {"id": 301, "name": "Universal Pictures", "logo_path": "/q54qEwbmPXeqE9JhG4Z6C4xSd4E.png"},
+    {"id": 302, "name": "Amblin Entertainment", "logo_path": "/ZdnOGkJhLFZ7TuOWq7N2EFwz7aQ.png"}
+  ],
+  "genres": [
+    {"id": 28, "name": "액션"},
+    {"id": 12, "name": "모험"},
+    {"id": 878, "name": "SF"}
+  ],
+  "cast": [
+    {
+      "id": 10,
+      "name": "스칼렛 요한슨",
+      "character": "Zora Bennett",
+      "profile_path": "https://image.tmdb.org/t/p/w185/3JTEc2tGUact9c0WktvpeJ9pajn.jpg",
+      "order": 0
+    },
+    {
+      "id": 11,
+      "name": "조나단 베일리",
+      "character": "Dr. Henry Loomis",
+      "profile_path": "https://image.tmdb.org/t/p/w185/2wXMD6LDp2fDBfNNqE6FiGa4dNZ.jpg",
+      "order": 1
+    },
+    {
+      "id": 12,
+      "name": "마흘러샬라 알리",
+      "character": "Duncan Kincaid",
+      "profile_path": "https://image.tmdb.org/t/p/w185/kFTHMXTn12LPE8L7ZWoYnXYdWOl.jpg",
+      "order": 2
+    },
+    {
+      "id": 45,
+      "name": "루퍼트 프렌드",
+      "character": "Martin Krebs",
+      "profile_path": "https://image.tmdb.org/t/p/w185/oFGz6GQ1VbS4V4qKv9jvz0z4lhw.jpg",
+      "order": 3
+    },
+    {
+      "id": 46,
+      "name": "안나 디 아르마스",
+      "character": "Dr. Santos",
+      "profile_path": "https://image.tmdb.org/t/p/w185/3DwTGv4sX4Z5c3tKq4mJKbPTqfF.jpg",
+      "order": 4
+    },
+    {
+      "id": 47,
+      "name": "제프 골드블럼",
+      "character": "Dr. Ian Malcolm",
+      "profile_path": "https://image.tmdb.org/t/p/w185/o3PaUcs7dJAHHhuwj0Z3Wnvps7d.jpg",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "id": 48,
+      "name": "게레스 에드워즈",
+      "job": "Director",
+      "profile_path": "https://image.tmdb.org/t/p/w185/9XK8x7OKMBrFY2BclDmztpGcOND.jpg"
+    },
+    {
+      "id": 49,
+      "name": "프랭크 마샬",
+      "job": "Producer",
+      "profile_path": "https://image.tmdb.org/t/p/w185/mPbN2zVjDaXQPGWbPp6Qm1LT1Tk.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video7",
+      "key": "JurassicNew2025",
+      "name": "Official Trailer",
+      "site": "YouTube",
+      "type": "Trailer"
+    },
+    {
+      "id": "video8",
+      "key": "DinosaurWorld",
+      "name": "Behind the Scenes",
+      "site": "YouTube",
+      "type": "Featurette"
+    }
+  ],
+  "similar": [
+    {"id": 3, "title": "F1 더 무비", "poster_path": "https://image.tmdb.org/t/p/w200/s1zW3M8VXDhATyL5qDOdWg4Pm9M.jpg"},
+    {"id": 7, "title": "캡틴 아메리카: 브레이브 뉴 월드", "poster_path": "https://image.tmdb.org/t/p/w200/qpLV3vOWLhHPW6vTXnYL7uP8B3o.jpg"}
+  ],
+  "box_office": {
+    "opening_weekend": 158000000,
+    "domestic_total": 420000000,
+    "worldwide_total": 1100000000
+  },
+  "release_info": [
+    {"country": "KR", "release_date": "2025-06-30", "certification": "12세관람가"},
+    {"country": "US", "release_date": "2025-07-02", "certification": "PG-13"}
+  ]
+}

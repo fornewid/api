@@ -1,0 +1,112 @@
+{
+  "id": 6,
+  "title": "미키 17",
+  "overview": "봉준호 감독의 새로운 SF 스릴러. 죽어도 다시 살아나는 남자 미키의 17번째 생에서 벌어지는 이야기. 에드워드 애슈턴의 소설을 원작으로 한 독창적이고 철학적인 SF 코미디 스릴러.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/mH7QnJDxQibVZw0M66IBZbsw2O6.jpg",
+  "backdrop_path": "https://image.tmdb.org/t/p/w1280/fz8zlb3mRj0qgJW7FtIxP9K6GYG.jpg",
+  "release_date": "2025-01-31",
+  "vote_average": 8.3,
+  "vote_count": 12456,
+  "runtime": 112,
+  "budget": 50000000,
+  "revenue": 320000000,
+  "tagline": "죽음은 끝이 아니다",
+  "homepage": "https://www.mickey17.com",
+  "original_language": "en",
+  "production_companies": [
+    {"id": 501, "name": "Plan B Entertainment", "logo_path": "/planb_logo.png"},
+    {"id": 502, "name": "Kate Street Picture Company", "logo_path": "/katestreet_logo.png"}
+  ],
+  "genres": [
+    {"id": 878, "name": "SF"},
+    {"id": 53, "name": "스릴러"},
+    {"id": 35, "name": "코미디"}
+  ],
+  "cast": [
+    {
+      "id": 16,
+      "name": "로버트 패틴슨",
+      "character": "Mickey Barnes",
+      "profile_path": "https://image.tmdb.org/t/p/w185/2hVNIaLvYNKsF2bCHhZ9ZUL5Gtj.jpg",
+      "order": 0
+    },
+    {
+      "id": 17,
+      "name": "나오미 왓츠",
+      "character": "Hieronymous Marshall",
+      "profile_path": "https://image.tmdb.org/t/p/w185/3pvkfSaFGAO3yUX7Qp3hYMM2KJ1.jpg",
+      "order": 1
+    },
+    {
+      "id": 18,
+      "name": "스티븐 연",
+      "character": "Jimmi Hong",
+      "profile_path": "https://image.tmdb.org/t/p/w185/uRoXPbfPUrYTtJSqpqpgCdSKfOb.jpg",
+      "order": 2
+    },
+    {
+      "id": 55,
+      "name": "토니 콜레트",
+      "character": "Gwen Johansen",
+      "profile_path": "https://image.tmdb.org/t/p/w185/2HSPS4wME4k9XDQB5xHvSdfpEJg.jpg",
+      "order": 3
+    },
+    {
+      "id": 56,
+      "name": "마크 러팔로",
+      "character": "Berto",
+      "profile_path": "https://image.tmdb.org/t/p/w185/isWlCDdClCttOYoJiYqwRfh9qhE.jpg",
+      "order": 4
+    },
+    {
+      "id": 57,
+      "name": "토마스 터고스",
+      "character": "Nils",
+      "profile_path": "https://image.tmdb.org/t/p/w185/YdVCLhL9c5nB4JpMONuFU4EjQ7g.jpg",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "id": 58,
+      "name": "봉준호",
+      "job": "Director",
+      "profile_path": "https://image.tmdb.org/t/p/w185/tXuRHlr7Ub8KlWNEQgGvFdNQ7HE.jpg"
+    },
+    {
+      "id": 59,
+      "name": "두나 배",
+      "job": "Producer",
+      "profile_path": "https://image.tmdb.org/t/p/w185/dQc8S3C9vhpGlcv8hqNqHl52V8t.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video11",
+      "key": "Mickey17Trailer",
+      "name": "Official Trailer",
+      "site": "YouTube",
+      "type": "Trailer"
+    },
+    {
+      "id": "video12",
+      "key": "BongJoonHo",
+      "name": "Director's Vision",
+      "site": "YouTube",
+      "type": "Featurette"
+    }
+  ],
+  "similar": [
+    {"id": 2, "title": "검은 수녀들", "poster_path": "https://image.tmdb.org/t/p/w200/n7T8RbMRDfhtKJ8T1KTpNZW2eQa.jpg"},
+    {"id": 8, "title": "썬더볼츠", "poster_path": "https://image.tmdb.org/t/p/w200/dV22UZGSw6JZxG1u3RJU7K2PzEe.jpg"}
+  ],
+  "box_office": {
+    "opening_weekend": 45000000,
+    "domestic_total": 125000000,
+    "worldwide_total": 320000000
+  },
+  "release_info": [
+    {"country": "KR", "release_date": "2025-01-29", "certification": "15세관람가"},
+    {"country": "US", "release_date": "2025-01-31", "certification": "R"}
+  ]
+}

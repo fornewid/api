@@ -1,0 +1,112 @@
+{
+  "id": 1,
+  "title": "미션 임파서블: 파이널 레코닝",
+  "overview": "이단 헌트와 IMF 팀이 마지막 미션에 나선다. 전 세계의 운명이 걸린 최후의 작전에서 과연 그들은 성공할 수 있을까? 시리즈의 대미를 장식하는 완벽한 마지막 장이 펼쳐진다.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+  "backdrop_path": "https://image.tmdb.org/t/p/w1280/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+  "release_date": "2025-05-23",
+  "vote_average": 8.1,
+  "vote_count": 15423,
+  "runtime": 163,
+  "budget": 290000000,
+  "revenue": 1250000000,
+  "tagline": "모든 미션의 끝",
+  "homepage": "https://www.missionimpossible.com",
+  "original_language": "en",
+  "production_companies": [
+    {"id": 1, "name": "Paramount Pictures", "logo_path": "/gz3TpwNa2ap4Uk2l2yPZO2qTJzJ.png"},
+    {"id": 2, "name": "Skydance Media", "logo_path": "/9aKX6yKgwL5OmBLYqBZYEjwnpCe.png"}
+  ],
+  "genres": [
+    {"id": 28, "name": "액션"},
+    {"id": 12, "name": "모험"},
+    {"id": 53, "name": "스릴러"}
+  ],
+  "cast": [
+    {
+      "id": 1,
+      "name": "톰 크루즈",
+      "character": "Ethan Hunt",
+      "profile_path": "https://image.tmdb.org/t/p/w185/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg",
+      "order": 0
+    },
+    {
+      "id": 2,
+      "name": "헤일리 앳웰",
+      "character": "Grace",
+      "profile_path": "https://image.tmdb.org/t/p/w185/84oKyPLhng5haEpRbr2WHROPbXQ.jpg",
+      "order": 1
+    },
+    {
+      "id": 3,
+      "name": "빙 레임스",
+      "character": "Luther Stickell",
+      "profile_path": "https://image.tmdb.org/t/p/w185/vZF4d6bXJKrVhKJgCShiHOBJiI4.jpg",
+      "order": 2
+    },
+    {
+      "id": 31,
+      "name": "사이먼 페그",
+      "character": "Benji Dunn",
+      "profile_path": "https://image.tmdb.org/t/p/w185/s78kXukmn6QYXHhv6t4M0Hnv5ZK.jpg",
+      "order": 3
+    },
+    {
+      "id": 32,
+      "name": "레베카 퍼거슨",
+      "character": "Ilsa Faust",
+      "profile_path": "https://image.tmdb.org/t/p/w185/lJloTOheuQSirSLXNA3JHsrMUgH.jpg",
+      "order": 4
+    },
+    {
+      "id": 33,
+      "name": "바네사 커비",
+      "character": "White Widow",
+      "profile_path": "https://image.tmdb.org/t/p/w185/q7j32kBQSJzWhACBhH9z1fj4Ve4.jpg",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "id": 34,
+      "name": "크리스토퍼 맥쿼리",
+      "job": "Director",
+      "profile_path": "https://image.tmdb.org/t/p/w185/qYZBzNvK5lhMUNYJDAMQoTLpBGQ.jpg"
+    },
+    {
+      "id": 1,
+      "name": "톰 크루즈",
+      "job": "Producer",
+      "profile_path": "https://image.tmdb.org/t/p/w185/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video1",
+      "key": "L3pk_TBkihU",
+      "name": "Official Trailer",
+      "site": "YouTube",
+      "type": "Trailer"
+    },
+    {
+      "id": "video2",
+      "key": "K8Av8kh9C8Y",
+      "name": "Final Trailer",
+      "site": "YouTube",
+      "type": "Trailer"
+    }
+  ],
+  "similar": [
+    {"id": 3, "title": "F1 더 무비", "poster_path": "https://image.tmdb.org/t/p/w200/s1zW3M8VXDhATyL5qDOdWg4Pm9M.jpg"},
+    {"id": 7, "title": "캡틴 아메리카: 브레이브 뉴 월드", "poster_path": "https://image.tmdb.org/t/p/w200/qpLV3vOWLhHPW6vTXnYL7uP8B3o.jpg"}
+  ],
+  "box_office": {
+    "opening_weekend": 87500000,
+    "domestic_total": 395000000,
+    "worldwide_total": 1250000000
+  },
+  "release_info": [
+    {"country": "KR", "release_date": "2025-05-21", "certification": "12세관람가"},
+    {"country": "US", "release_date": "2025-05-23", "certification": "PG-13"}
+  ]
+}

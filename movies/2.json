@@ -1,0 +1,112 @@
+{
+  "id": 2,
+  "title": "검은 수녀들",
+  "overview": "악귀를 쫓는 수녀들의 치열한 사투를 그린 오컬트 호러. 전작 '검은 사제들'의 세계관을 이어받은 속편으로, 더욱 강력해진 악의 존재와 맞서는 수녀들의 이야기가 펼쳐진다.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/fT6SIrOyGwWZ4ZujHjRcabcxgfq.jpg",
+  "backdrop_path": "https://image.tmdb.org/t/p/w1280/fT6SIrOyGwWZ4ZujHjRcabcxgfq.jpg",
+  "release_date": "2025-01-24",
+  "vote_average": 7.4,
+  "vote_count": 8765,
+  "runtime": 123,
+  "budget": 25000000,
+  "revenue": 180000000,
+  "tagline": "믿음으로 악을 물리쳐라",
+  "homepage": "https://www.blacknuns.kr",
+  "original_language": "ko",
+  "production_companies": [
+    {"id": 101, "name": "CJ ENM", "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png"},
+    {"id": 102, "name": "외유내강", "logo_path": "/8bWKM8V3mBDXqZnMCKlleHhFq3g.png"}
+  ],
+  "genres": [
+    {"id": 27, "name": "공포"},
+    {"id": 53, "name": "스릴러"},
+    {"id": 9648, "name": "미스터리"}
+  ],
+  "cast": [
+    {
+      "id": 4,
+      "name": "송혜교",
+      "character": "윤수신 수녀",
+      "profile_path": "https://image.tmdb.org/t/p/w185/eFz2W9j9HXz6CmDFW8w7JFnyqqW.jpg",
+      "order": 0
+    },
+    {
+      "id": 5,
+      "name": "전여빈",
+      "character": "미카엘라 수녀",
+      "profile_path": "https://image.tmdb.org/t/p/w185/92MZkCuYpjcZMCeKtD7o0xNEWdx.jpg",
+      "order": 1
+    },
+    {
+      "id": 6,
+      "name": "이진욱",
+      "character": "박신부",
+      "profile_path": "https://image.tmdb.org/t/p/w185/nHvOl6WjOEtG12xhVhczkkJ7qZx.jpg",
+      "order": 2
+    },
+    {
+      "id": 35,
+      "name": "김윤석",
+      "character": "최몬시뇰",
+      "profile_path": "https://image.tmdb.org/t/p/w185/fY3NaSIJPHHPFDASiNFMR4xSTr5.jpg",
+      "order": 3
+    },
+    {
+      "id": 36,
+      "name": "이수경",
+      "character": "안나 수녀",
+      "profile_path": "https://image.tmdb.org/t/p/w185/7KGVw9W7ZLgJKTWJ8wY0nZ1s7dV.jpg",
+      "order": 4
+    },
+    {
+      "id": 37,
+      "name": "박성훈",
+      "character": "최 형사",
+      "profile_path": "https://image.tmdb.org/t/p/w185/2QKsOYqWKJXL8pHFW8oGd7s3P5l.jpg",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "id": 38,
+      "name": "권혁재",
+      "job": "Director",
+      "profile_path": "https://image.tmdb.org/t/p/w185/dKQc8M8JXzXHl43VlzFYzc3l8xC.jpg"
+    },
+    {
+      "id": 39,
+      "name": "이영민",
+      "job": "Producer",
+      "profile_path": "https://image.tmdb.org/t/p/w185/nX8dH1X8WjK7QGvl5H2d7sL9mW3.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video3",
+      "key": "dQw4w9WgXcQ",
+      "name": "메인 예고편",
+      "site": "YouTube",
+      "type": "Trailer"
+    },
+    {
+      "id": "video4",
+      "key": "oHg5SJYRHA0",
+      "name": "캐릭터 예고편",
+      "site": "YouTube",
+      "type": "Trailer"
+    }
+  ],
+  "similar": [
+    {"id": 6, "title": "미키 17", "poster_path": "https://image.tmdb.org/t/p/w200/qzT1lWYUEFxaHVTy2EdYxfUf5Ch.jpg"},
+    {"id": 1, "title": "미션 임파서블: 파이널 레코닝", "poster_path": "https://image.tmdb.org/t/p/w200/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"}
+  ],
+  "box_office": {
+    "opening_weekend": 12500000,
+    "domestic_total": 85000000,
+    "worldwide_total": 180000000
+  },
+  "release_info": [
+    {"country": "KR", "release_date": "2025-01-24", "certification": "15세관람가"},
+    {"country": "US", "release_date": "2025-03-14", "certification": "R"}
+  ]
+}
